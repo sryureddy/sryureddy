@@ -1,4 +1,4 @@
-<h1 align="center">Sarayu Reddy 👋</h1>
+<h1 align="center">Sarayu Reddy </h1>
 
 <p align="center">
   CSE Undergraduate • Learning • Building • Growing
