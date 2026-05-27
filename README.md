@@ -1,32 +1,34 @@
-<h1 align="center">Hey there 👋 I'm Sarayu</h1>
+<h1 align="center">Hi 👋, I'm Sarayu Reddy</h1>
 
 <p align="center">
-  Exploring AI, Web Development & Software Engineering
+  CSE Undergraduate • Software Developer • Tech Explorer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB6BD9&center=true&vCenter=true&width=450&lines=Web+Developer;React+Learner;Building+Cool+Projects" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### About Me
+- 🌱 Learning Full Stack Development
+- 💻 Interested in Web Development & AI
+- 🚀 Building projects and improving every day
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sryureddy&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sryureddy&theme=tokyonight)
+### Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,figma" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sryureddy&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/katrapally-sarayu-reddy/))
-
-[Email](mailto:reddysarayu650@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sryureddy&theme=tokyonight&hide_border=true" />
+</p>
