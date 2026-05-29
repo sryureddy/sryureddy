@@ -8,9 +8,9 @@
 
 ### About Me
 
-- 💻 Exploring Web Development and AI
-- 🌱 Currently learning React and Full Stack Development
-- 🚀 Building projects and improving every day
+- Exploring Web Development and AI
+-  Currently learning React and Full Stack Development
+-  Building projects and improving every day
 
 ---
 
