@@ -13,8 +13,7 @@ Passionate about Web Development, AI, and building impactful projects.
 -  Computer Science Engineering Student
 -  Currently learning React and Full Stack Development
 -  Exploring Web Development and Artificial Intelligence
--  Building projects and improving problem-solving skills
--  Always eager to learn new technologies
+
 
 ---
 
