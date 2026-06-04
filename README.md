@@ -1,4 +1,4 @@
-<h1 align="center">Sarayu Reddy </h1>
+<h1 align="center">Sarayu Reddy</h1>
 
 <p align="center">
   CSE Undergraduate • Learning • Building • Growing
@@ -9,8 +9,8 @@
 ### About Me
 
 - Exploring Web Development and AI
--  Currently learning React and Full Stack Development
--  Building projects and improving every day
+- Currently learning React and Full Stack Development
+- Building projects and improving every day
 
 ---
 
@@ -26,4 +26,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sryureddy&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sryureddy&theme=tokyonight&hide_border=true" />
 </p>
