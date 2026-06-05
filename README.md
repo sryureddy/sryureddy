@@ -44,10 +44,8 @@ Passionate about Web Development, AI, and building impactful projects.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sryureddy">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+
+
   <a href="https://www.linkedin.com/in/katrapally-sarayu-reddy/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
