@@ -32,14 +32,7 @@ Passionate about Web Development, AI, and building impactful projects.
 - Strengthen Data Structures & Algorithms
 - Contribute to Open Source Projects
 
----
 
-
-## 📈 Coding Profiles
-
-- GitHub: https://github.com/sryureddy
-
----
 
 ## 🌐 Connect With Me
 
@@ -50,7 +43,6 @@ Passionate about Web Development, AI, and building impactful projects.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
----
 
 <div align="center">
 
