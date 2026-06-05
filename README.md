@@ -48,7 +48,10 @@ Passionate about Web Development, AI, and building impactful projects.
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
+  <a href="https://www.linkedin.com/in/katrapally-sarayu-reddy/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 ---
 
 <div align="center">
