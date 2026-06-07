@@ -30,7 +30,7 @@ Passionate about Web Development, AI, and building impactful projects.
 - Master React and Modern JavaScript
 - Build Full Stack Applications
 - Strengthen Data Structures & Algorithms
-- Contribute to Open Source Projects
+
 
 
 
