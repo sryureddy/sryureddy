@@ -1,4 +1,4 @@
-<h1 align="center">Hey , I'm Sarayu Reddy</h1>
+<h1 align="center">Hey , I'm Sarayu</h1>
 
 <h3 align="center">Computer Science Engineering Undergraduate</h3>
 
